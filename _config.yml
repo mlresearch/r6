@@ -2,7 +2,7 @@
 booktitle: Proceedings of the 24th Conference on Uncertainty in Artificial Intelligence
 shortname: UAI
 year: '2008'
-start: &1 2008-07-09
+start: 2008-07-09
 end: 2008-07-12
 conference_number: '24'
 published: 2024-10-09
@@ -70,7 +70,7 @@ conference:
   url: https://www.auai.org/uai2008/
   location: The University of Helsinki City Centre Campus, Helsinki
   dates:
-  - *1
+  - 2008-07-09
   - 2008-07-10
   - 2008-07-11
   - 2008-07-12
